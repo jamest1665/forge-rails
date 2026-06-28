@@ -1,1 +1,1 @@
-The full skyforge solar inspection example
+The updated full end-to-end skyforge solar inspection example using MissionExecutor

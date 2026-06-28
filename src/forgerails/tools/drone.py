@@ -1,1 +1,1 @@
-The full drone.py content
+Enhanced DroneTool with optional pymavlink support (graceful fallback)
