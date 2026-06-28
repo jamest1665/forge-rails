@@ -1,1 +1,1 @@
-The updated full end-to-end skyforge solar inspection example using MissionExecutor
+Generalized example file - removed company-specific branding from docstring and comments

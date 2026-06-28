@@ -1,1 +1,1 @@
-Enhanced DroneTool with optional pymavlink support (graceful fallback)
+Cleaned comments in DroneTool
