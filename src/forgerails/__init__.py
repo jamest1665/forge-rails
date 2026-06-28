@@ -1,1 +1,1 @@
-The __init__ content
+The updated __init__.py exposing new modules
