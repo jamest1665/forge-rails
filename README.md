@@ -1,1 +1,1 @@
-The full README content here - but to save space I'll note it's the long one from earlier
+The updated README with Drone Integration section and revised roadmap
