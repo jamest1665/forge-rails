@@ -1,1 +1,1 @@
-The updated agent.py with tool execution logic
+Improved CuriosityLoop with better prompts (JSON schema) and more robust tool parsing (JSON first + legacy fallback)

@@ -1,1 +1,1 @@
-Updated exports for MissionExecutor
+Exposed new Tool base class

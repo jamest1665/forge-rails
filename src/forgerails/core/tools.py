@@ -1,1 +1,1 @@
-The full tools.py content from sandbox
+Updated ToolRegistry registration to use new structured tools + kept legacy support

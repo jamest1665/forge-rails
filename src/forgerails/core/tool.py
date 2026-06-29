@@ -1,0 +1,1 @@
+New production Tool base class with Pydantic schemas for reliable structured tool calling

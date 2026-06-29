@@ -1,1 +1,1 @@
-Cleaned comments in DroneTool
+Updated DroneTool with structured Pydantic Tool subclasses (DroneConnectTool, DroneUploadMissionTool, etc.)
