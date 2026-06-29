@@ -1,1 +1,1 @@
-Improved CuriosityLoop with better prompts (JSON schema) and more robust tool parsing (JSON first + legacy fallback)
+Integrated tracing into CuriosityLoop.run_step with proper spans for LLM and tool phases
