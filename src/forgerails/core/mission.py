@@ -1,1 +1,1 @@
-Updated MissionExecutor to use resilient safe_execute for agent steps
+Added production checkpointing and resumability to MissionExecutor (save_checkpoint, load_checkpoint, resume_mission). This makes long-running missions resilient and production-ready.
