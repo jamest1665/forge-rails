@@ -1,1 +1,1 @@
-Added tracer support to MissionExecutor for full mission observability
+Updated MissionExecutor to use resilient safe_execute for agent steps

@@ -1,1 +1,1 @@
-Integrated tracing into CuriosityLoop.run_step with proper spans for LLM and tool phases
+Integrated retry logic + tracing into CuriosityLoop LLM calls and tool execution
