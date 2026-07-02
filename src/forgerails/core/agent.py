@@ -1,1 +1,1 @@
-Integrated retry logic + tracing into CuriosityLoop LLM calls and tool execution
+Enhanced OllamaClient and CuriosityLoop to use native JSON mode for more reliable structured output when tools are involved. Integrated with existing retry and tracing layers.

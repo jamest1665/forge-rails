@@ -1,1 +1,1 @@
-Added production checkpointing and resumability to MissionExecutor (save_checkpoint, load_checkpoint, resume_mission). This makes long-running missions resilient and production-ready.
+Updated MissionExecutor planner and critic steps to pass tool schemas, enabling JSON mode for higher reliability.
